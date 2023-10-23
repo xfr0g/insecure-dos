@@ -1,4 +1,4 @@
-![inse](https://github.com/semiiixyz/insecure-dos/assets/125569648/5f436706-4afd-40b6-b4d7-3cf25740645b)
+![Screenshot at 2023-10-23 14-12-03](https://github.com/semiiixyz/insecure-dos/assets/125569648/cdffaf63-2fb3-48f3-a191-e70aa84e7210)
 
 # INSECURE
 INSECURE is a simple status code checker and traffic limit tester of an insecure website (HTTP).
