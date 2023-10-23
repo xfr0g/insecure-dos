@@ -7,14 +7,13 @@ INSECURE is a simple status code checker and traffic limit tester of an insecure
 For Linux:
 * git clone https://github.com/semiiixyz/insecure-dos.git
 * cd insecure-dos
-* pip3 install requests
-* apt install figlet lolcat
+* pip3 install requests termcolor
 * python3 insecure-dos.py
 
 For Termux:
 * pkg update && upgrade -y
-* pkg install python figlet lolcat
-* pip3 install requests
+* pkg install python
+* pip3 install requests termcolor
 * git clone https://github.com/semiiixyz/insecure-dos.git
 * cd insecure-dos
 * python3 insecure-dos.py
